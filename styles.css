@@ -125,7 +125,7 @@ Navbar
 
 /* background of navbar */
 nav ul{
-background-color: #f2f2f2;
+background-color: #333;
 display: flex;
 flex-direction: row;
 padding: .5rem;
@@ -294,16 +294,34 @@ Footer
 */
 
 footer {
-  background-color: #f2f2f2;
+  background-color: #333;
+  color: #fff;
   padding: 20px;
-  text-align: center;
+  width: 100%;
 }
 
-.container {
-  max-width: 960px;
+.footer-content {
+  max-width: 1200px;
   margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-p {
-  margin: 0;
+.footer-links li {
+  display: inline;
+  margin-right: 15px;
+}
+
+.footer-links li:last-child {
+  margin-right: 0;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
 }

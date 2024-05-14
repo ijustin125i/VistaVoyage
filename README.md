@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# This is a test 
+# ScreenStream
 A Network visualization React app for graphing Spotify top artists and their relationships.
 
 Check out Dandelion [here](https://github.com/username/repository)!
@@ -27,3 +27,6 @@ Dandelion is a visualization tool that plots the relationships between the user'
 - Web playback allows you to control what device the music plays on directly from the app.
 
 ## Screenshots
+![Screenshot Description](https://github.com/username/repository/raw/main/path/to/screenshot.png)
+
+

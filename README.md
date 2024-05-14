@@ -27,6 +27,6 @@ Dandelion is a visualization tool that plots the relationships between the user'
 - Web playback allows you to control what device the music plays on directly from the app.
 
 ## Screenshots
-![Screenshot Description](https://github.com/username/repository/raw/main/path/to/screenshot.png)
+![](https://github.com/ijustin125i/ScreenStream/blob/main/images/Shrek1.png?raw=true)
 
 

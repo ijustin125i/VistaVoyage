@@ -1,13 +1,13 @@
 # VistaVoyage
-A home screen that allows users to delve into an extensive library of films.
+VistaVoyage is your virtual gateway to immersive travel experiences. Explore destinations, plan your trips, and get inspired with stunning visuals—all in one place!
 
 ## About The App
-Welcome to our Movie Application! Our app brings you a captivating home screen experience designed to immerse you in the world of cinema. We've focused on creating an intuitive user interface that not only enhances engagement but also ensures your satisfaction as you explore a vast collection of movies.
+VistaVoyage is a single-page website designed to provide users with a lifelike glimpse into various travel destinations. Our interactive interface seamlessly adapts to both desktop and mobile devices, ensuring a smooth user experience no matter where you are. Leveraging JavaScript, HTML, and CSS, we've crafted an engaging platform that utilizes CSS Flexbox to elevate the site's design and layout, making your virtual travel adventures truly unforgettable.
 
 ## Screenshots
-![](https://github.com/ijustin125i/ScreenStream/blob/main/images/Shrek1.png?raw=true) &nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github.com/ijustin125i/VistaVoyageTemp/blob/main/images/VistaVoyage1.png) &nbsp;&nbsp;&nbsp;&nbsp;
 
-![](https://github.com/ijustin125i/ScreenStream/blob/main/images/Shrek2.png) 
+![](https://github.com/ijustin125i/VistaVoyageTemp/blob/main/images/VistaVoyage2.png) 
 
 
 
